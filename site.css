@@ -1,0 +1,23 @@
+.logo img {
+    height:250px;
+    width:250px;
+    border-radius:100%;
+    margin-top: 2em;
+}
+.test {
+    height:500px;
+}
+
+.fb {
+    font-size:35px;
+}
+
+body {
+    background-image: url("fond.jpg");
+}
+
+.adresse {
+    color: black;
+    font-weight: bold;
+    font-size:
+}
