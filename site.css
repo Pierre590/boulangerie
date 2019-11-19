@@ -4,9 +4,11 @@
     border-radius:100%;
     margin-top: 2em;
 }
+
 .adr{
     margin-top: 5em;
 }
+
 .test {
     height:500px;
 }
@@ -15,16 +17,25 @@
     font-size:35px;
 }
 
-body {
-
-}
-
 .adresse {
     color: black;
     font-weight: bold;
     font-size:
 }
+
 .equipe{
     height:500px;
     width:900px;
+}
+
+.colbas{
+    margin-top: 2em;
+}
+
+.team img{
+    width:100%;
+
+}
+footer{
+    bottom:0;
 }
